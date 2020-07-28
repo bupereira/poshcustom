@@ -1,4 +1,4 @@
-Write-Host "Hello, egomesbrandao!"
+Write-Host "Hello, bupereira!"
 
 Import-Module oh-my-posh
 
