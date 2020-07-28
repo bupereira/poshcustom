@@ -5,7 +5,7 @@ My Powershell customizations, all the customizations I do everytime start a new 
 ## 1. Instalation
 
 ``` 
-git clone https://github.com/egomesbrandao/poshcustom.git $env:userprofile\Documents\WindowsPowerShell
+git clone https://github.com/bupereira/poshcustom.git $env:userprofile\Documents\WindowsPowerShell
 ```
 
 ## 2. Font
